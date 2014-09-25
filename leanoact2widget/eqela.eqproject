@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# LeanoAct2Widget
+#
+
+projectname: LeanoAct2Widget
+vendorid: com.alvin.sample
+mainmodule: com.alvin.sample.leanoact2widget
